@@ -1,4 +1,4 @@
-# generate-rssfeed-using-nodejs
+#  Generate RSS Feed using NodeJS
 
 For more tutorials visit: http://programmerblog.net/
 
