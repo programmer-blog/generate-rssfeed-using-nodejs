@@ -4,7 +4,7 @@ For more tutorials visit: http://programmerblog.net/
 
 ### Source code for article on how to Generate RSS Feed using NodeJS
 
-Followign tasks are perfomred in this tutorial.
+Following tasks are perfomred in this tutorial.
 
 1. Create a database and a table for news and insert sample news data.
 
